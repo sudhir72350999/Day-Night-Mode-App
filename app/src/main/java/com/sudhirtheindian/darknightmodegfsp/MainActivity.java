@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
        Makes it easier to use device in a low-light.
      */
     private Button btnToggleDark;
+    // change something
 
 //    @SuppressLint("SetTextI18n")
 
