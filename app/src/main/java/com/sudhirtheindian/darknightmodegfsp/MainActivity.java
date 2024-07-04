@@ -23,7 +23,9 @@ public class MainActivity extends AppCompatActivity {
        Makes it easier to use device in a low-light.
      */
     private Button btnToggleDark;
+    private Button check;
     // change something
+//hi
 
 //    @SuppressLint("SetTextI18n")
 
@@ -60,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 // When user taps the enable/disable
                 // dark mode button
                 if (isDarkModeOn) {
+                    
 
                     // if dark mode is on it
                     // will turn it off
@@ -73,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
                     // change text of Button
                     btnToggleDark.setText("Enable Dark Mode");
                 }
+                // hi how are you
                 else {
 
                     // if dark mode is off
